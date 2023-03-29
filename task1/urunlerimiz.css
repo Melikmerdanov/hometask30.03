@@ -1,0 +1,106 @@
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: darkred;
+}
+.link{
+    text-align: center;
+    word-spacing: 7px;
+}
+h2{
+    text-align: center;
+    margin-top: 30px;
+    color: blueviolet;
+}
+.photos{
+    width: 40%;
+    height: 5000px;
+    text-align: centers;
+    margin: auto;
+}
+.img1{   
+    margin-left: 50px;
+}
+.img1>p{
+    text-align: center;
+    font-size: 25px;
+}
+.img2{   
+   
+    margin-left: 49px;
+}
+.img2>img{
+    width: 500px;
+    height: 500px;
+}
+.img2>p{
+    text-align: center;
+    font-size: 25px;
+}
+.img3{   
+    margin-left: 50px;
+}
+.img3>img{
+    width: 500px;
+    height: 500px;
+}
+.img3>p{
+    text-align: center;
+    font-size: 25px;
+}
+.img4{   
+    margin-left: 50px;
+}
+.img4>img{
+    width: 500px;
+    height: 500px;
+}
+.img4>p{
+    text-align: center;
+    font-size: 25px;
+}
+.img5{   
+    margin-left: 50px;
+}
+.img5>img{
+    width: 500px;
+    height: 500px;
+}
+.img5>p{
+    text-align: center;
+    font-size: 25px;
+}
+.img6{   
+    margin-left: 50px;
+}
+.img6>img{
+    width: 500px;
+    height: 500px;
+}
+.img6>p{
+    text-align: center;
+    font-size: 25px;
+}
+.img7{   
+    margin-left: 50px;
+}
+.img7>img{
+    width: 500px;
+    height: 500px;
+}
+.img7>p{
+    text-align: center;
+    font-size: 25px;
+}
+.img8{   
+    margin-left: 50px;
+}
+.img8>img{
+    width: 500px;
+    height: 500px;
+}
+.img8>p{
+    text-align: center;
+    font-size: 25px;
+}
